@@ -1,0 +1,5 @@
+streamlit
+opencv-contrib-python  
+joblib
+pillow
+numpy
